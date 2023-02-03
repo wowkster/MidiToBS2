@@ -1,0 +1,12 @@
+{
+    "name": "star-wars",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "type": "module",
+    "dependencies": {
+        "@wowkster/prettier-config": "^1.1.2",
+        "midi-parser-js": "^4.0.4"
+    },
+    "prettier": "@wowkster/prettier-config"
+}
